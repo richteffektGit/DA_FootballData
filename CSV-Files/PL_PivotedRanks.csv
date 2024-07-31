@@ -1,0 +1,421 @@
+Rank,Jahr,Club
+1,2002,Man United
+1,2003,Arsenal
+1,2004,Chelsea
+1,2005,Chelsea
+1,2006,Man United
+1,2007,Man United
+1,2008,Man United
+1,2009,Chelsea
+1,2010,Man United
+1,2011,Man City
+1,2012,Man United
+1,2013,Man City
+1,2014,Chelsea
+1,2015,Leicester
+1,2016,Chelsea
+1,2017,Man City
+1,2018,Man City
+1,2019,Liverpool
+1,2020,Man City
+1,2021,Man City
+1,2022,Man City
+2,2002,Arsenal
+2,2003,Chelsea
+2,2004,Arsenal
+2,2005,Man United
+2,2006,Chelsea
+2,2007,Chelsea
+2,2008,Liverpool
+2,2009,Man United
+2,2010,Chelsea
+2,2011,Man United
+2,2012,Man City
+2,2013,Liverpool
+2,2014,Man City
+2,2015,Arsenal
+2,2016,Tottenham
+2,2017,Man United
+2,2018,Liverpool
+2,2019,Man City
+2,2020,Man United
+2,2021,Liverpool
+2,2022,Arsenal
+3,2002,Newcastle
+3,2003,Man United
+3,2004,Man United
+3,2005,Liverpool
+3,2006,Liverpool
+3,2007,Arsenal
+3,2008,Chelsea
+3,2009,Arsenal
+3,2010,Man City
+3,2011,Arsenal
+3,2012,Chelsea
+3,2013,Chelsea
+3,2014,Arsenal
+3,2015,Tottenham
+3,2016,Man City
+3,2017,Tottenham
+3,2018,Chelsea
+3,2019,Man United
+3,2020,Liverpool
+3,2021,Chelsea
+3,2022,Man United
+4,2002,Chelsea
+4,2003,Liverpool
+4,2004,Everton
+4,2005,Arsenal
+4,2006,Arsenal
+4,2007,Liverpool
+4,2008,Arsenal
+4,2009,Tottenham
+4,2010,Arsenal
+4,2011,Tottenham
+4,2012,Arsenal
+4,2013,Arsenal
+4,2014,Man United
+4,2015,Man City
+4,2016,Liverpool
+4,2017,Liverpool
+4,2018,Tottenham
+4,2019,Chelsea
+4,2020,Chelsea
+4,2021,Tottenham
+4,2022,Newcastle
+5,2002,Liverpool
+5,2003,Newcastle
+5,2004,Liverpool
+5,2005,Tottenham
+5,2006,Tottenham
+5,2007,Everton
+5,2008,Everton
+5,2009,Man City
+5,2010,Tottenham
+5,2011,Newcastle
+5,2012,Tottenham
+5,2013,Everton
+5,2014,Tottenham
+5,2015,Man United
+5,2016,Arsenal
+5,2017,Chelsea
+5,2018,Arsenal
+5,2019,Leicester
+5,2020,Leicester
+5,2021,Arsenal
+5,2022,Liverpool
+6,2002,Blackburn
+6,2003,Aston Villa
+6,2004,Bolton
+6,2005,Blackburn
+6,2006,Everton
+6,2007,Aston Villa
+6,2008,Aston Villa
+6,2009,Aston Villa
+6,2010,Liverpool
+6,2011,Chelsea
+6,2012,Everton
+6,2013,Tottenham
+6,2014,Liverpool
+6,2015,Southampton
+6,2016,Man United
+6,2017,Arsenal
+6,2018,Man United
+6,2019,Tottenham
+6,2020,West Ham
+6,2021,Man United
+6,2022,Brighton
+7,2002,Everton
+7,2003,Charlton
+7,2004,Middlesbrough
+7,2005,Newcastle
+7,2006,Bolton
+7,2007,Blackburn
+7,2008,Fulham
+7,2009,Liverpool
+7,2010,Everton
+7,2011,Everton
+7,2012,Liverpool
+7,2013,Man United
+7,2014,Southampton
+7,2015,West Ham
+7,2016,Everton
+7,2017,Burnley
+7,2018,Wolves
+7,2019,Wolves
+7,2020,Tottenham
+7,2021,West Ham
+7,2022,Aston Villa
+8,2002,Southampton
+8,2003,Bolton
+8,2004,Man City
+8,2005,Bolton
+8,2006,Reading
+8,2007,Portsmouth
+8,2008,Tottenham
+8,2009,Everton
+8,2010,Fulham
+8,2011,Liverpool
+8,2012,West Brom
+8,2013,Southampton
+8,2014,Swansea
+8,2015,Liverpool
+8,2016,Southampton
+8,2017,Everton
+8,2018,Everton
+8,2019,Arsenal
+8,2020,Arsenal
+8,2021,Leicester
+8,2022,Tottenham
+9,2002,Man City
+9,2003,Fulham
+9,2004,Tottenham
+9,2005,West Ham
+9,2006,Portsmouth
+9,2007,Man City
+9,2008,West Ham
+9,2009,Birmingham
+9,2010,Aston Villa
+9,2011,Fulham
+9,2012,Swansea
+9,2013,Stoke
+9,2014,Stoke
+9,2015,Stoke
+9,2016,Bournemouth
+9,2017,Leicester
+9,2018,Leicester
+9,2019,Sheffield U.
+9,2020,Leeds
+9,2021,Brighton
+9,2022,Brentford
+10,2002,Tottenham
+10,2003,Birmingham
+10,2004,Aston Villa
+10,2005,Wigan
+10,2006,Blackburn
+10,2007,West Ham
+10,2008,Man City
+10,2009,Blackburn
+10,2010,Sunderland
+10,2011,West Brom
+10,2012,West Ham
+10,2013,Newcastle
+10,2014,Crystal Palace
+10,2015,Chelsea
+10,2016,West Brom
+10,2017,Newcastle
+10,2018,West Ham
+10,2019,Burnley
+10,2020,Everton
+10,2021,Wolves
+10,2022,Fulham
+11,2002,Middlesbrough
+11,2003,Middlesbrough
+11,2004,Charlton
+11,2005,Everton
+11,2006,Aston Villa
+11,2007,Tottenham
+11,2008,Wigan
+11,2009,Stoke
+11,2010,West Brom
+11,2011,Swansea
+11,2012,Norwich
+11,2013,Crystal Palace
+11,2014,Everton
+11,2015,Everton
+11,2016,West Ham
+11,2017,Crystal Palace
+11,2018,Watford
+11,2019,Southampton
+11,2020,Aston Villa
+11,2021,Newcastle
+11,2022,Crystal Palace
+12,2002,Charlton
+12,2003,Southampton
+12,2004,Birmingham
+12,2005,Fulham
+12,2006,Middlesbrough
+12,2007,Newcastle
+12,2008,Stoke
+12,2009,Fulham
+12,2010,Newcastle
+12,2011,Norwich
+12,2012,Fulham
+12,2013,Swansea
+12,2014,West Ham
+12,2015,Swansea
+12,2016,Leicester
+12,2017,Bournemouth
+12,2018,Crystal Palace
+12,2019,Everton
+12,2020,Newcastle
+12,2021,Crystal Palace
+12,2022,Chelsea
+13,2002,Birmingham
+13,2003,Portsmouth
+13,2004,Fulham
+13,2005,Charlton
+13,2006,Newcastle
+13,2007,Middlesbrough
+13,2008,Bolton
+13,2009,Sunderland
+13,2010,Stoke
+13,2011,Sunderland
+13,2012,Stoke
+13,2013,West Ham
+13,2014,West Brom
+13,2015,Watford
+13,2016,Stoke
+13,2017,West Ham
+13,2018,Newcastle
+13,2019,Newcastle
+13,2020,Wolves
+13,2021,Brentford
+13,2022,Wolves
+14,2002,Fulham
+14,2003,Tottenham
+14,2004,Newcastle
+14,2005,Middlesbrough
+14,2006,Man City
+14,2007,Wigan
+14,2008,Portsmouth
+14,2009,Bolton
+14,2010,Bolton
+14,2011,Stoke
+14,2012,Southampton
+14,2013,Sunderland
+14,2014,Leicester
+14,2015,West Brom
+14,2016,Crystal Palace
+14,2017,Watford
+14,2018,Bournemouth
+14,2019,Crystal Palace
+14,2020,Crystal Palace
+14,2021,Aston Villa
+14,2022,West Ham
+15,2002,Leeds
+15,2003,Blackburn
+15,2004,Blackburn
+15,2005,Man City
+15,2006,West Ham
+15,2007,Sunderland
+15,2008,Blackburn
+15,2009,Wolves
+15,2010,Blackburn
+15,2011,Wigan
+15,2012,Aston Villa
+15,2013,Aston Villa
+15,2014,Newcastle
+15,2015,Crystal Palace
+15,2016,Swansea
+15,2017,Brighton
+15,2018,Burnley
+15,2019,Brighton
+15,2020,Southampton
+15,2021,Southampton
+15,2022,Bournemouth
+16,2002,Aston Villa
+16,2003,Man City
+16,2004,Portsmouth
+16,2005,Aston Villa
+16,2006,Fulham
+16,2007,Bolton
+16,2008,Sunderland
+16,2009,Wigan
+16,2010,Wigan
+16,2011,Aston Villa
+16,2012,Newcastle
+16,2013,Hull
+16,2014,Sunderland
+16,2015,Bournemouth
+16,2016,Burnley
+16,2017,Huddersfield
+16,2018,Southampton
+16,2019,West Ham
+16,2020,Brighton
+16,2021,Everton
+16,2022,Nottm Forest
+17,2002,Bolton
+17,2003,Everton
+17,2004,West Brom
+17,2005,Portsmouth
+17,2006,Wigan
+17,2007,Fulham
+17,2008,Hull
+17,2009,West Ham
+17,2010,Wolves
+17,2011,QPR
+17,2012,Sunderland
+17,2013,West Brom
+17,2014,Aston Villa
+17,2015,Sunderland
+17,2016,Watford
+17,2017,Southampton
+17,2018,Brighton
+17,2019,Aston Villa
+17,2020,Burnley
+17,2021,Leeds
+17,2022,Everton
+18,2002,West Ham
+18,2003,Leicester
+18,2004,Crystal Palace
+18,2005,Birmingham
+18,2006,Sheffield U.
+18,2007,Reading
+18,2008,Newcastle
+18,2009,Burnley
+18,2010,Birmingham
+18,2011,Bolton
+18,2012,Wigan
+18,2013,Norwich
+18,2014,Hull
+18,2015,Newcastle
+18,2016,Hull
+18,2017,Swansea
+18,2018,Cardiff
+18,2019,Bournemouth
+18,2020,Fulham
+18,2021,Burnley
+18,2022,Leicester
+19,2002,West Brom
+19,2003,Leeds
+19,2004,Norwich
+19,2005,West Brom
+19,2006,Charlton
+19,2007,Birmingham
+19,2008,Middlesbrough
+19,2009,Hull
+19,2010,Blackpool
+19,2011,Blackburn
+19,2012,Reading
+19,2013,Fulham
+19,2014,Burnley
+19,2015,Norwich
+19,2016,Middlesbrough
+19,2017,Stoke
+19,2018,Fulham
+19,2019,Watford
+19,2020,West Brom
+19,2021,Watford
+19,2022,Leeds
+20,2002,Sunderland
+20,2003,Wolves
+20,2004,Southampton
+20,2005,Sunderland
+20,2006,Watford
+20,2007,Derby
+20,2008,West Brom
+20,2009,Portsmouth
+20,2010,West Ham
+20,2011,Wolves
+20,2012,QPR
+20,2013,Cardiff
+20,2014,QPR
+20,2015,Aston Villa
+20,2016,Sunderland
+20,2017,West Brom
+20,2018,Huddersfield
+20,2019,Norwich
+20,2020,Sheffield U.
+20,2021,Norwich
+20,2022,Southampton

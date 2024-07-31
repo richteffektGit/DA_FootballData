@@ -1,0 +1,613 @@
+Matchday,Team,Rank
+1,Hertha,1
+2,Dortmund,1
+3,Dortmund,1
+4,Dortmund,1
+5,Dortmund,1
+6,Dortmund,1
+7,Dortmund,1
+8,Bayern Munich,1
+9,Bayern Munich,1
+10,Bayern Munich,1
+11,Bayern Munich,1
+12,Bayern Munich,1
+13,Bayern Munich,1
+14,Bayern Munich,1
+15,Bayern Munich,1
+16,Bayern Munich,1
+17,Bayern Munich,1
+18,Bayern Munich,1
+19,Bayern Munich,1
+20,Bayern Munich,1
+21,Bayern Munich,1
+22,Bayern Munich,1
+23,Bayern Munich,1
+24,Bayern Munich,1
+25,Bayern Munich,1
+26,Bayern Munich,1
+27,Bayern Munich,1
+28,Bayern Munich,1
+29,Bayern Munich,1
+30,Bayern Munich,1
+31,Bayern Munich,1
+32,Bayern Munich,1
+33,Bayern Munich,1
+34,Bayern Munich,1
+1,Dortmund,2
+2,Leverkusen,2
+3,Leverkusen,2
+4,Bayern Munich,2
+5,Bayern Munich,2
+6,Bayern Munich,2
+7,Bayern Munich,2
+8,Dortmund,2
+9,Dortmund,2
+10,Dortmund,2
+11,Dortmund,2
+12,Dortmund,2
+13,Leverkusen,2
+14,Leverkusen,2
+15,Leverkusen,2
+16,Leverkusen,2
+17,Leverkusen,2
+18,Leverkusen,2
+19,Leverkusen,2
+20,Leverkusen,2
+21,Leverkusen,2
+22,Leverkusen,2
+23,Dortmund,2
+24,Dortmund,2
+25,Dortmund,2
+26,Dortmund,2
+27,Dortmund,2
+28,Dortmund,2
+29,Dortmund,2
+30,Dortmund,2
+31,Dortmund,2
+32,Dortmund,2
+33,Dortmund,2
+34,Dortmund,2
+1,Leverkusen,3
+2,Bayern Munich,3
+3,Bayern Munich,3
+4,Hannover,3
+5,Leverkusen,3
+6,Leverkusen,3
+7,Leverkusen,3
+8,Leverkusen,3
+9,Leverkusen,3
+10,Leverkusen,3
+11,Leverkusen,3
+12,Leverkusen,3
+13,Dortmund,3
+14,Dortmund,3
+15,Dortmund,3
+16,Dortmund,3
+17,Mgladbach,3
+18,Dortmund,3
+19,Dortmund,3
+20,Dortmund,3
+21,Dortmund,3
+22,Dortmund,3
+23,Leverkusen,3
+24,Leverkusen,3
+25,Schalke 04,3
+26,Schalke 04,3
+27,Schalke 04,3
+28,Schalke 04,3
+29,Schalke 04,3
+30,Schalke 04,3
+31,Schalke 04,3
+32,Schalke 04,3
+33,Schalke 04,3
+34,Schalke 04,3
+1,Bayern Munich,4
+2,Mainz,4
+3,Mainz,4
+4,Leverkusen,4
+5,Hannover,4
+6,Hannover,4
+7,Hannover,4
+8,Mgladbach,4
+9,Hertha,4
+10,Mgladbach,4
+11,Mgladbach,4
+12,Mgladbach,4
+13,Mgladbach,4
+14,Mgladbach,4
+15,Mgladbach,4
+16,Mgladbach,4
+17,Dortmund,4
+18,Mgladbach,4
+19,Schalke 04,4
+20,Schalke 04,4
+21,Schalke 04,4
+22,Schalke 04,4
+23,Schalke 04,4
+24,Schalke 04,4
+25,Leverkusen,4
+26,Leverkusen,4
+27,Leverkusen,4
+28,Leverkusen,4
+29,Mgladbach,4
+30,Leverkusen,4
+31,Leverkusen,4
+32,Leverkusen,4
+33,Leverkusen,4
+34,Leverkusen,4
+1,Hannover,5
+2,Werder Bremen,5
+3,Hertha,5
+4,Mainz,5
+5,Mainz,5
+6,Mgladbach,5
+7,Hertha,5
+8,Hannover,5
+9,Schalke 04,5
+10,Hertha,5
+11,Wolfsburg,5
+12,Wolfsburg,5
+13,Wolfsburg,5
+14,Schalke 04,5
+15,Wolfsburg,5
+16,Wolfsburg,5
+17,Wolfsburg,5
+18,Schalke 04,5
+19,Mgladbach,5
+20,Mgladbach,5
+21,Wolfsburg,5
+22,Wolfsburg,5
+23,Wolfsburg,5
+24,Wolfsburg,5
+25,Mainz,5
+26,Mgladbach,5
+27,Wolfsburg,5
+28,Wolfsburg,5
+29,Leverkusen,5
+30,Wolfsburg,5
+31,Wolfsburg,5
+32,Wolfsburg,5
+33,Wolfsburg,5
+34,Wolfsburg,5
+1,Mainz,6
+2,Hertha,6
+3,Werder Bremen,6
+4,Hertha,6
+5,Augsburg,6
+6,Wolfsburg,6
+7,Stuttgart,6
+8,Hertha,6
+9,Mgladbach,6
+10,Wolfsburg,6
+11,Schalke 04,6
+12,Schalke 04,6
+13,Schalke 04,6
+14,Wolfsburg,6
+15,Schalke 04,6
+16,Schalke 04,6
+17,Hertha,6
+18,Wolfsburg,6
+19,Wolfsburg,6
+20,Wolfsburg,6
+21,Mgladbach,6
+22,Mgladbach,6
+23,Mainz,6
+24,Augsburg,6
+25,Wolfsburg,6
+26,Wolfsburg,6
+27,Mgladbach,6
+28,Mgladbach,6
+29,Wolfsburg,6
+30,Mgladbach,6
+31,Mgladbach,6
+32,Mgladbach,6
+33,Mgladbach,6
+34,Mgladbach,6
+1,Werder Bremen,7
+2,Hoffenheim,7
+3,Hannover,7
+4,Mgladbach,7
+5,Hoffenheim,7
+6,Mainz,7
+7,Mgladbach,7
+8,Stuttgart,7
+9,Hannover,7
+10,Schalke 04,7
+11,Hertha,7
+12,Hertha,7
+13,Mainz,7
+14,Hertha,7
+15,Hertha,7
+16,Hertha,7
+17,Schalke 04,7
+18,Hertha,7
+19,Mainz,7
+20,Hertha,7
+21,Mainz,7
+22,Hertha,7
+23,Mgladbach,7
+24,Mainz,7
+25,Mgladbach,7
+26,Mainz,7
+27,Mainz,7
+28,Mainz,7
+29,Mainz,7
+30,Mainz,7
+31,Mainz,7
+32,Mainz,7
+33,Mainz,7
+34,Mainz,7
+1,Hamburg,8
+2,Wolfsburg,8
+3,Hoffenheim,8
+4,Wolfsburg,8
+5,Hertha,8
+6,Augsburg,8
+7,Augsburg,8
+8,Schalke 04,8
+9,Stuttgart,8
+10,Stuttgart,8
+11,Werder Bremen,8
+12,Stuttgart,8
+13,Hertha,8
+14,Mainz,8
+15,Mainz,8
+16,Augsburg,8
+17,Augsburg,8
+18,Mainz,8
+19,Hertha,8
+20,Augsburg,8
+21,Hertha,8
+22,Augsburg,8
+23,Hertha,8
+24,Mgladbach,8
+25,Augsburg,8
+26,Augsburg,8
+27,Augsburg,8
+28,Augsburg,8
+29,Augsburg,8
+30,Augsburg,8
+31,Augsburg,8
+32,Augsburg,8
+33,Augsburg,8
+34,Augsburg,8
+1,Schalke 04,9
+2,Mgladbach,9
+3,Wolfsburg,9
+4,Werder Bremen,9
+5,Schalke 04,9
+6,Werder Bremen,9
+7,Werder Bremen,9
+8,Werder Bremen,9
+9,Wolfsburg,9
+10,Hoffenheim,9
+11,Hoffenheim,9
+12,Mainz,9
+13,Stuttgart,9
+14,Hannover,9
+15,Augsburg,9
+16,Mainz,9
+17,Mainz,9
+18,Augsburg,9
+19,Augsburg,9
+20,Mainz,9
+21,Augsburg,9
+22,Mainz,9
+23,Augsburg,9
+24,Hertha,9
+25,Hertha,9
+26,Hertha,9
+27,Hertha,9
+28,Hoffenheim,9
+29,Hoffenheim,9
+30,Hoffenheim,9
+31,Hoffenheim,9
+32,Hoffenheim,9
+33,Hoffenheim,9
+34,Hoffenheim,9
+1,Hoffenheim,10
+2,Hannover,10
+3,Mgladbach,10
+4,Augsburg,10
+5,Stuttgart,10
+6,Hertha,10
+7,Hoffenheim,10
+8,Hoffenheim,10
+9,Werder Bremen,10
+10,Hannover,10
+11,Stuttgart,10
+12,Werder Bremen,10
+13,Augsburg,10
+14,Augsburg,10
+15,Stuttgart,10
+16,Stuttgart,10
+17,Stuttgart,10
+18,Hannover,10
+19,Hannover,10
+20,Hannover,10
+21,Hoffenheim,10
+22,Hoffenheim,10
+23,Hoffenheim,10
+24,Hoffenheim,10
+25,Hoffenheim,10
+26,Hoffenheim,10
+27,Hoffenheim,10
+28,Hertha,10
+29,Hertha,10
+30,Hertha,10
+31,Hertha,10
+32,Hertha,10
+33,Hertha,10
+34,Hannover,10
+1,Nurnberg,11
+2,Nurnberg,11
+3,Ein Frankfurt,11
+4,Hoffenheim,11
+5,Mgladbach,11
+6,Hoffenheim,11
+7,Wolfsburg,11
+8,Mainz,11
+9,Hoffenheim,11
+10,Mainz,11
+11,Hannover,11
+12,Hannover,11
+13,Hamburg,11
+14,Hamburg,11
+15,Hoffenheim,11
+16,Hoffenheim,11
+17,Werder Bremen,11
+18,Werder Bremen,11
+19,Hoffenheim,11
+20,Hoffenheim,11
+21,Hannover,11
+22,Hannover,11
+23,Hannover,11
+24,Werder Bremen,11
+25,Hannover,11
+26,Hannover,11
+27,Ein Frankfurt,11
+28,Ein Frankfurt,11
+29,Ein Frankfurt,11
+30,Ein Frankfurt,11
+31,Werder Bremen,11
+32,Ein Frankfurt,11
+33,Hannover,11
+34,Hertha,11
+1,Stuttgart,12
+2,Hamburg,12
+3,Augsburg,12
+4,Hamburg,12
+5,Wolfsburg,12
+6,Stuttgart,12
+7,Mainz,12
+8,Augsburg,12
+9,Ein Frankfurt,12
+10,Hamburg,12
+11,Mainz,12
+12,Hoffenheim,12
+13,Werder Bremen,12
+14,Stuttgart,12
+15,Hannover,12
+16,Hannover,12
+17,Hoffenheim,12
+18,Stuttgart,12
+19,Werder Bremen,12
+20,Ein Frankfurt,12
+21,Ein Frankfurt,12
+22,Nurnberg,12
+23,Ein Frankfurt,12
+24,Hannover,12
+25,Werder Bremen,12
+26,Ein Frankfurt,12
+27,Hannover,12
+28,Werder Bremen,12
+29,Werder Bremen,12
+30,Werder Bremen,12
+31,Ein Frankfurt,12
+32,Freiburg,12
+33,Werder Bremen,12
+34,Werder Bremen,12
+1,Braunschweig,13
+2,Schalke 04,13
+3,Nurnberg,13
+4,Schalke 04,13
+5,Ein Frankfurt,13
+6,Ein Frankfurt,13
+7,Ein Frankfurt,13
+8,Ein Frankfurt,13
+9,Augsburg,13
+10,Werder Bremen,13
+11,Augsburg,13
+12,Augsburg,13
+13,Hannover,13
+14,Werder Bremen,13
+15,Hamburg,13
+16,Hamburg,13
+17,Hannover,13
+18,Hoffenheim,13
+19,Stuttgart,13
+20,Werder Bremen,13
+21,Werder Bremen,13
+22,Ein Frankfurt,13
+23,Werder Bremen,13
+24,Ein Frankfurt,13
+25,Ein Frankfurt,13
+26,Werder Bremen,13
+27,Werder Bremen,13
+28,Hannover,13
+29,Hannover,13
+30,Hannover,13
+31,Freiburg,13
+32,Hannover,13
+33,Ein Frankfurt,13
+34,Ein Frankfurt,13
+1,Freiburg,14
+2,Stuttgart,14
+3,Freiburg,14
+4,Stuttgart,14
+5,Werder Bremen,14
+6,Schalke 04,14
+7,Schalke 04,14
+8,Wolfsburg,14
+9,Mainz,14
+10,Ein Frankfurt,14
+11,Hamburg,14
+12,Hamburg,14
+13,Hoffenheim,14
+14,Hoffenheim,14
+15,Werder Bremen,14
+16,Werder Bremen,14
+17,Hamburg,14
+18,Ein Frankfurt,14
+19,Ein Frankfurt,14
+20,Stuttgart,14
+21,Nurnberg,14
+22,Werder Bremen,14
+23,Nurnberg,14
+24,Nurnberg,14
+25,Hamburg,14
+26,Freiburg,14
+27,Nurnberg,14
+28,Freiburg,14
+29,Freiburg,14
+30,Freiburg,14
+31,Hannover,14
+32,Werder Bremen,14
+33,Freiburg,14
+34,Freiburg,14
+1,Mgladbach,15
+2,Braunschweig,15
+3,Hamburg,15
+4,Ein Frankfurt,15
+5,Hamburg,15
+6,Nurnberg,15
+7,Nurnberg,15
+8,Hamburg,15
+9,Hamburg,15
+10,Augsburg,15
+11,Ein Frankfurt,15
+12,Ein Frankfurt,15
+13,Ein Frankfurt,15
+14,Ein Frankfurt,15
+15,Ein Frankfurt,15
+16,Ein Frankfurt,15
+17,Ein Frankfurt,15
+18,Freiburg,15
+19,Nurnberg,15
+20,Freiburg,15
+21,Stuttgart,15
+22,Stuttgart,15
+23,Stuttgart,15
+24,Stuttgart,15
+25,Nurnberg,15
+26,Stuttgart,15
+27,Freiburg,15
+28,Nurnberg,15
+29,Stuttgart,15
+30,Stuttgart,15
+31,Stuttgart,15
+32,Stuttgart,15
+33,Stuttgart,15
+34,Stuttgart,15
+1,Wolfsburg,16
+2,Freiburg,16
+3,Schalke 04,16
+4,Freiburg,16
+5,Nurnberg,16
+6,Hamburg,16
+7,Hamburg,16
+8,Nurnberg,16
+9,Nurnberg,16
+10,Nurnberg,16
+11,Freiburg,16
+12,Freiburg,16
+13,Freiburg,16
+14,Freiburg,16
+15,Freiburg,16
+16,Freiburg,16
+17,Freiburg,16
+18,Hamburg,16
+19,Freiburg,16
+20,Nurnberg,16
+21,Freiburg,16
+22,Hamburg,16
+23,Hamburg,16
+24,Hamburg,16
+25,Freiburg,16
+26,Hamburg,16
+27,Hamburg,16
+28,Stuttgart,16
+29,Hamburg,16
+30,Hamburg,16
+31,Hamburg,16
+32,Hamburg,16
+33,Hamburg,16
+34,Hamburg,16
+1,Augsburg,17
+2,Augsburg,17
+3,Stuttgart,17
+4,Nurnberg,17
+5,Freiburg,17
+6,Freiburg,17
+7,Freiburg,17
+8,Freiburg,17
+9,Freiburg,17
+10,Freiburg,17
+11,Nurnberg,17
+12,Braunschweig,17
+13,Nurnberg,17
+14,Nurnberg,17
+15,Nurnberg,17
+16,Nurnberg,17
+17,Nurnberg,17
+18,Nurnberg,17
+19,Hamburg,17
+20,Hamburg,17
+21,Hamburg,17
+22,Freiburg,17
+23,Freiburg,17
+24,Freiburg,17
+25,Stuttgart,17
+26,Nurnberg,17
+27,Stuttgart,17
+28,Hamburg,17
+29,Nurnberg,17
+30,Nurnberg,17
+31,Nurnberg,17
+32,Nurnberg,17
+33,Nurnberg,17
+34,Nurnberg,17
+1,Ein Frankfurt,18
+2,Ein Frankfurt,18
+3,Braunschweig,18
+4,Braunschweig,18
+5,Braunschweig,18
+6,Braunschweig,18
+7,Braunschweig,18
+8,Braunschweig,18
+9,Braunschweig,18
+10,Braunschweig,18
+11,Braunschweig,18
+12,Nurnberg,18
+13,Braunschweig,18
+14,Braunschweig,18
+15,Braunschweig,18
+16,Braunschweig,18
+17,Braunschweig,18
+18,Braunschweig,18
+19,Braunschweig,18
+20,Braunschweig,18
+21,Braunschweig,18
+22,Braunschweig,18
+23,Braunschweig,18
+24,Braunschweig,18
+25,Braunschweig,18
+26,Braunschweig,18
+27,Braunschweig,18
+28,Braunschweig,18
+29,Braunschweig,18
+30,Braunschweig,18
+31,Braunschweig,18
+32,Braunschweig,18
+33,Braunschweig,18
+34,Braunschweig,18

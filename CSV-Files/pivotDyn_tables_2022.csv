@@ -1,0 +1,613 @@
+Matchday,Team,Rank
+1,Schalke 04,16
+1,Stuttgart,11
+1,Augsburg,17
+1,Bayern Munich,1
+1,RB Leipzig,10
+1,Werder Bremen,8
+1,Mainz,6
+1,Wolfsburg,9
+1,Hoffenheim,15
+1,Union Berlin,3
+1,Ein Frankfurt,18
+1,Hertha,14
+1,Dortmund,7
+1,Mgladbach,5
+1,Freiburg,2
+1,Bochum,12
+1,Leverkusen,13
+1,FC Koln,4
+2,Union Berlin,5
+2,Hoffenheim,8
+2,Mgladbach,4
+2,Wolfsburg,15
+2,Mainz,6
+2,Hertha,14
+2,Augsburg,9
+2,Dortmund,2
+2,Freiburg,7
+2,Werder Bremen,10
+2,Ein Frankfurt,16
+2,FC Koln,3
+2,Bochum,17
+2,RB Leipzig,11
+2,Schalke 04,13
+2,Stuttgart,12
+2,Bayern Munich,1
+2,Leverkusen,18
+3,Union Berlin,3
+3,Augsburg,10
+3,Hoffenheim,6
+3,Hertha,16
+3,Schalke 04,13
+3,Wolfsburg,14
+3,Mgladbach,2
+3,Stuttgart,12
+3,Freiburg,5
+3,Werder Bremen,9
+3,RB Leipzig,11
+3,Bochum,18
+3,Bayern Munich,1
+3,Dortmund,7
+3,Mainz,4
+3,Ein Frankfurt,15
+3,Leverkusen,17
+3,FC Koln,8
+4,Mainz,7
+4,Ein Frankfurt,11
+4,FC Koln,8
+4,Hoffenheim,4
+4,Schalke 04,16
+4,Bochum,18
+4,Wolfsburg,15
+4,Werder Bremen,10
+4,Augsburg,14
+4,Union Berlin,2
+4,Freiburg,3
+4,RB Leipzig,9
+4,Dortmund,5
+4,Mgladbach,6
+4,Bayern Munich,1
+4,Hertha,17
+4,Leverkusen,13
+4,Stuttgart,12
+5,Dortmund,2
+5,Schalke 04,15
+5,Hoffenheim,7
+5,Leverkusen,14
+5,RB Leipzig,11
+5,Union Berlin,4
+5,FC Koln,6
+5,Freiburg,1
+5,Mgladbach,9
+5,Mainz,5
+5,Stuttgart,12
+5,Wolfsburg,17
+5,Ein Frankfurt,10
+5,Werder Bremen,8
+5,Augsburg,16
+5,Bayern Munich,3
+5,Hertha,13
+5,Bochum,18
+6,Union Berlin,1
+6,Ein Frankfurt,11
+6,RB Leipzig,10
+6,FC Koln,7
+6,Hoffenheim,4
+6,Schalke 04,12
+6,Wolfsburg,16
+6,Dortmund,5
+6,Leverkusen,17
+6,Mgladbach,8
+6,Freiburg,2
+6,Augsburg,13
+6,Bayern Munich,3
+6,Stuttgart,14
+6,Mainz,6
+6,Bochum,18
+6,Hertha,15
+6,Werder Bremen,9
+7,Bochum,18
+7,Bayern Munich,5
+7,Mainz,8
+7,Freiburg,3
+7,Leverkusen,15
+7,Schalke 04,14
+7,Hoffenheim,4
+7,Hertha,13
+7,FC Koln,9
+7,Stuttgart,16
+7,Ein Frankfurt,7
+7,RB Leipzig,12
+7,Mgladbach,6
+7,Augsburg,11
+7,Werder Bremen,10
+7,Dortmund,2
+7,Union Berlin,1
+7,Wolfsburg,17
+8,Werder Bremen,8
+8,Wolfsburg,13
+8,Mainz,12
+8,Augsburg,10
+8,FC Koln,7
+8,Leverkusen,17
+8,Dortmund,4
+8,Mgladbach,9
+8,RB Leipzig,11
+8,Ein Frankfurt,6
+8,Hoffenheim,5
+8,Freiburg,2
+8,Stuttgart,16
+8,Union Berlin,1
+8,Bayern Munich,3
+8,Hertha,14
+8,Schalke 04,15
+8,Bochum,18
+9,Leverkusen,15
+9,Dortmund,4
+9,Augsburg,10
+9,Stuttgart,17
+9,Wolfsburg,13
+9,Ein Frankfurt,8
+9,Mainz,12
+9,Bochum,18
+9,FC Koln,9
+9,RB Leipzig,11
+9,Freiburg,2
+9,Union Berlin,1
+9,Mgladbach,6
+9,Werder Bremen,5
+9,Hertha,14
+9,Bayern Munich,3
+9,Schalke 04,16
+9,Hoffenheim,7
+10,Hoffenheim,4
+10,Bochum,18
+10,Mainz,11
+10,Augsburg,12
+10,Wolfsburg,13
+10,Union Berlin,1
+10,Stuttgart,14
+10,Bayern Munich,2
+10,Freiburg,3
+10,Mgladbach,6
+10,Leverkusen,16
+10,Ein Frankfurt,5
+10,RB Leipzig,10
+10,Dortmund,8
+10,Werder Bremen,9
+10,Schalke 04,17
+10,FC Koln,7
+10,Hertha,15
+11,Leverkusen,15
+11,Wolfsburg,14
+11,Ein Frankfurt,4
+11,Hertha,13
+11,Union Berlin,1
+11,Augsburg,12
+11,Mgladbach,9
+11,Bayern Munich,2
+11,Werder Bremen,11
+11,Hoffenheim,7
+11,RB Leipzig,8
+11,FC Koln,10
+11,Freiburg,3
+11,Stuttgart,16
+11,Schalke 04,18
+11,Bochum,17
+11,Dortmund,5
+11,Mainz,6
+12,Hertha,14
+12,Union Berlin,1
+12,Dortmund,4
+12,Augsburg,13
+12,Hoffenheim,7
+12,Wolfsburg,12
+12,Bayern Munich,2
+12,RB Leipzig,6
+12,Mgladbach,11
+12,Freiburg,3
+12,Ein Frankfurt,5
+12,Werder Bremen,8
+12,FC Koln,10
+12,Mainz,9
+12,Schalke 04,18
+12,Bochum,17
+12,Leverkusen,16
+12,Stuttgart,15
+13,Leverkusen,14
+13,Hertha,15
+13,Bayern Munich,1
+13,Werder Bremen,7
+13,Augsburg,13
+13,Ein Frankfurt,5
+13,FC Koln,12
+13,Freiburg,2
+13,Wolfsburg,11
+13,RB Leipzig,6
+13,Union Berlin,3
+13,Mainz,10
+13,Hoffenheim,9
+13,Schalke 04,18
+13,Mgladbach,8
+13,Stuttgart,16
+13,Dortmund,4
+13,Bochum,17
+14,Wolfsburg,8
+14,Stuttgart,15
+14,Schalke 04,18
+14,Ein Frankfurt,4
+14,Werder Bremen,7
+14,Augsburg,14
+14,Leverkusen,13
+14,Hertha,16
+14,Dortmund,6
+14,Bayern Munich,1
+14,Mainz,11
+14,Freiburg,3
+14,Union Berlin,2
+14,FC Koln,12
+14,Hoffenheim,10
+14,RB Leipzig,5
+14,Mgladbach,9
+14,Bochum,17
+15,Werder Bremen,9
+15,Hertha,15
+15,Augsburg,14
+15,Wolfsburg,7
+15,FC Koln,13
+15,Freiburg,2
+15,Mgladbach,8
+15,Leverkusen,12
+15,Dortmund,6
+15,Hoffenheim,11
+15,Ein Frankfurt,4
+15,RB Leipzig,3
+15,Mainz,10
+15,Union Berlin,5
+15,Bayern Munich,1
+15,Bochum,17
+15,Schalke 04,18
+15,Stuttgart,16
+16,Mgladbach,8
+16,Stuttgart,16
+16,Freiburg,4
+16,Wolfsburg,7
+16,Hoffenheim,13
+16,Ein Frankfurt,2
+16,Bochum,14
+16,Mainz,12
+16,Dortmund,6
+16,Augsburg,15
+16,FC Koln,11
+16,Union Berlin,3
+16,Werder Bremen,10
+16,RB Leipzig,5
+16,Bayern Munich,1
+16,Schalke 04,18
+16,Leverkusen,9
+16,Hertha,17
+17,Stuttgart,15
+17,Ein Frankfurt,4
+17,Leverkusen,8
+17,Wolfsburg,7
+17,Augsburg,14
+17,Mainz,12
+17,Union Berlin,2
+17,Freiburg,6
+17,Hoffenheim,13
+17,Werder Bremen,11
+17,RB Leipzig,3
+17,FC Koln,10
+17,Dortmund,5
+17,Schalke 04,18
+17,Mgladbach,9
+17,Hertha,17
+17,Bochum,16
+17,Bayern Munich,1
+18,Dortmund,4
+18,Schalke 04,18
+18,Wolfsburg,7
+18,Stuttgart,15
+18,Bochum,16
+18,Hoffenheim,13
+18,Union Berlin,2
+18,FC Koln,12
+18,Ein Frankfurt,6
+18,Mainz,11
+18,RB Leipzig,3
+18,Bayern Munich,1
+18,Augsburg,14
+18,Werder Bremen,10
+18,Freiburg,5
+18,Leverkusen,9
+18,Hertha,17
+18,Mgladbach,8
+19,Bochum,15
+19,RB Leipzig,4
+19,Hoffenheim,14
+19,Wolfsburg,7
+19,Augsburg,13
+19,Mainz,12
+19,Freiburg,6
+19,Bayern Munich,1
+19,FC Koln,11
+19,Dortmund,3
+19,Leverkusen,10
+19,Ein Frankfurt,5
+19,Union Berlin,2
+19,Schalke 04,18
+19,Mgladbach,9
+19,Hertha,17
+19,Stuttgart,16
+19,Werder Bremen,8
+20,Schalke 04,18
+20,Freiburg,4
+20,Hoffenheim,14
+20,Wolfsburg,7
+20,Union Berlin,2
+20,Augsburg,13
+20,Hertha,16
+20,Mainz,12
+20,Ein Frankfurt,6
+20,Bayern Munich,1
+20,FC Koln,11
+20,Dortmund,3
+20,Mgladbach,10
+20,RB Leipzig,5
+20,Werder Bremen,9
+20,Stuttgart,17
+20,Bochum,15
+20,Leverkusen,8
+21,Hoffenheim,15
+21,Freiburg,4
+21,Schalke 04,18
+21,Stuttgart,14
+21,Wolfsburg,7
+21,Dortmund,2
+21,Augsburg,13
+21,FC Koln,12
+21,Ein Frankfurt,6
+21,Werder Bremen,11
+21,Union Berlin,3
+21,Bayern Munich,1
+21,Leverkusen,10
+21,RB Leipzig,5
+21,Mainz,9
+21,Hertha,17
+21,Bochum,16
+21,Mgladbach,8
+22,RB Leipzig,4
+22,Dortmund,2
+22,Wolfsburg,7
+22,Schalke 04,18
+22,Augsburg,13
+22,FC Koln,12
+22,Ein Frankfurt,6
+22,Stuttgart,15
+22,Union Berlin,3
+22,Leverkusen,11
+22,Hertha,14
+22,Mgladbach,10
+22,Freiburg,5
+22,Werder Bremen,9
+22,Bochum,17
+22,Bayern Munich,1
+22,Mainz,8
+22,Hoffenheim,16
+23,Stuttgart,15
+23,Schalke 04,17
+23,Hertha,14
+23,Dortmund,2
+23,Mainz,7
+23,Bayern Munich,1
+23,Augsburg,13
+23,FC Koln,12
+23,Ein Frankfurt,6
+23,Union Berlin,3
+23,Werder Bremen,11
+23,Mgladbach,10
+23,Bochum,18
+23,Leverkusen,9
+23,Freiburg,5
+23,RB Leipzig,4
+23,Hoffenheim,16
+23,Wolfsburg,8
+24,Union Berlin,4
+24,Hertha,15
+24,Dortmund,2
+24,Bochum,14
+24,Mainz,7
+24,Augsburg,13
+24,Bayern Munich,1
+24,FC Koln,12
+24,Ein Frankfurt,6
+24,RB Leipzig,3
+24,Werder Bremen,11
+24,Mgladbach,10
+24,Freiburg,5
+24,Leverkusen,9
+24,Schalke 04,17
+24,Hoffenheim,18
+24,Stuttgart,16
+24,Wolfsburg,8
+25,Freiburg,4
+25,Bochum,14
+25,Bayern Munich,2
+25,Wolfsburg,7
+25,FC Koln,13
+25,Augsburg,12
+25,Dortmund,1
+25,Ein Frankfurt,6
+25,Union Berlin,3
+25,Werder Bremen,11
+25,Mgladbach,10
+25,RB Leipzig,5
+25,Hoffenheim,15
+25,Stuttgart,18
+25,Mainz,9
+25,Schalke 04,17
+25,Hertha,16
+25,Leverkusen,8
+26,Hoffenheim,15
+26,Dortmund,2
+26,Bochum,14
+26,Leverkusen,7
+26,Bayern Munich,1
+26,FC Koln,13
+26,Augsburg,12
+26,Ein Frankfurt,6
+26,Stuttgart,18
+26,Werder Bremen,11
+26,Union Berlin,3
+26,Wolfsburg,9
+26,Mgladbach,10
+26,RB Leipzig,5
+26,Schalke 04,17
+26,Hertha,16
+26,Mainz,8
+26,Freiburg,4
+27,Bochum,15
+27,Bayern Munich,1
+27,Dortmund,2
+27,Ein Frankfurt,7
+27,Hoffenheim,14
+27,Augsburg,13
+27,FC Koln,12
+27,Leverkusen,6
+27,Werder Bremen,11
+27,Union Berlin,3
+27,Freiburg,5
+27,Mgladbach,10
+27,Schalke 04,18
+27,Hertha,17
+27,Wolfsburg,9
+27,Stuttgart,16
+27,Mainz,8
+27,RB Leipzig,4
+28,Dortmund,2
+28,Bayern Munich,1
+28,Bochum,15
+28,Augsburg,14
+28,Ein Frankfurt,7
+28,Hoffenheim,13
+28,Werder Bremen,12
+28,Leverkusen,6
+28,Union Berlin,3
+28,FC Koln,11
+28,Mgladbach,10
+28,Freiburg,5
+28,Hertha,18
+28,Wolfsburg,9
+28,Schalke 04,17
+28,Stuttgart,16
+28,Mainz,8
+28,RB Leipzig,4
+29,Bayern Munich,2
+29,Bochum,15
+29,Dortmund,1
+29,Hoffenheim,14
+29,Mainz,7
+29,Augsburg,13
+29,Werder Bremen,12
+29,Leverkusen,6
+29,Union Berlin,3
+29,FC Koln,11
+29,Mgladbach,10
+29,RB Leipzig,5
+29,Hertha,18
+29,Ein Frankfurt,9
+29,Schalke 04,17
+29,Stuttgart,16
+29,Wolfsburg,8
+29,Freiburg,4
+30,Stuttgart,15
+30,Wolfsburg,7
+30,Hoffenheim,14
+30,Augsburg,13
+30,Bayern Munich,1
+30,Werder Bremen,12
+30,Leverkusen,6
+30,Union Berlin,3
+30,FC Koln,11
+30,RB Leipzig,5
+30,Mgladbach,10
+30,Hertha,18
+30,Ein Frankfurt,9
+30,Schalke 04,17
+30,Bochum,16
+30,Mainz,8
+30,Freiburg,4
+30,Dortmund,2
+31,Schalke 04,15
+31,Hoffenheim,14
+31,Wolfsburg,7
+31,Augsburg,13
+31,RB Leipzig,3
+31,Leverkusen,6
+31,Werder Bremen,12
+31,FC Koln,11
+31,Mgladbach,10
+31,Freiburg,5
+31,Ein Frankfurt,9
+31,Bochum,17
+31,Hertha,18
+31,Stuttgart,16
+31,Bayern Munich,1
+31,Mainz,8
+31,Dortmund,2
+31,Union Berlin,4
+32,Bochum,15
+32,Leverkusen,7
+32,Hoffenheim,14
+32,Augsburg,13
+32,RB Leipzig,3
+32,Werder Bremen,12
+32,Wolfsburg,6
+32,Mgladbach,11
+32,Freiburg,5
+32,FC Koln,10
+32,Mainz,9
+32,Hertha,18
+32,Stuttgart,17
+32,Bayern Munich,1
+32,Ein Frankfurt,8
+32,Schalke 04,16
+32,Union Berlin,4
+32,Dortmund,2
+33,Stuttgart,15
+33,Augsburg,14
+33,Wolfsburg,7
+33,Hoffenheim,13
+33,Leverkusen,6
+33,Werder Bremen,12
+33,RB Leipzig,3
+33,Mgladbach,11
+33,FC Koln,10
+33,Freiburg,5
+33,Hertha,18
+33,Mainz,9
+33,Schalke 04,17
+33,Bayern Munich,2
+33,Dortmund,1
+33,Bochum,16
+33,Ein Frankfurt,8
+33,Union Berlin,4
+34,Augsburg,15
+34,Bochum,14
+34,Ein Frankfurt,7
+34,Werder Bremen,13
+34,Hoffenheim,12
+34,Leverkusen,6
+34,RB Leipzig,3
+34,FC Koln,11
+34,Mgladbach,10
+34,Freiburg,5
+34,Hertha,18
+34,Schalke 04,17
+34,Mainz,9
+34,Stuttgart,16
+34,Wolfsburg,8
+34,Union Berlin,4
+34,Dortmund,2
+34,Bayern Munich,1

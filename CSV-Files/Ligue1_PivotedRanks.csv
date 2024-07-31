@@ -1,0 +1,421 @@
+Rank,Jahr,Club
+1,2002,Lyon
+1,2003,Lyon
+1,2004,Lyon
+1,2005,Lyon
+1,2006,Lyon
+1,2007,Lyon
+1,2008,Bordeaux
+1,2009,Marseille
+1,2010,Lille
+1,2011,Montpellier
+1,2012,Paris SG
+1,2013,Paris SG
+1,2014,Paris SG
+1,2015,Paris SG
+1,2016,Monaco
+1,2017,Paris SG
+1,2018,Paris SG
+1,2019,Paris SG
+1,2020,Lille
+1,2021,Paris SG
+1,2022,Paris SG
+2,2002,Monaco
+2,2003,Paris SG
+2,2004,Lille
+2,2005,Bordeaux
+2,2006,Marseille
+2,2007,Bordeaux
+2,2008,Marseille
+2,2009,Lyon
+2,2010,Marseille
+2,2011,Paris SG
+2,2012,Marseille
+2,2013,Monaco
+2,2014,Lyon
+2,2015,Lyon
+2,2016,Paris SG
+2,2017,Monaco
+2,2018,Lille
+2,2019,Lens
+2,2020,Paris SG
+2,2021,Marseille
+2,2022,Lens
+3,2002,Marseille
+3,2003,Monaco
+3,2004,Monaco
+3,2005,Lille
+3,2006,Toulouse
+3,2007,Marseille
+3,2008,Lyon
+3,2009,Auxerre
+3,2010,Lyon
+3,2011,Lille
+3,2012,Lyon
+3,2013,Lille
+3,2014,Monaco
+3,2015,Monaco
+3,2016,Nice
+3,2017,Lyon
+3,2018,Lyon
+3,2019,Marseille
+3,2020,Monaco
+3,2021,Monaco
+3,2022,Marseille
+4,2002,Bordeaux
+4,2003,Auxerre
+4,2004,Rennes
+4,2005,Lens
+4,2006,Rennes
+4,2007,Nancy
+4,2008,Toulouse
+4,2009,Lille
+4,2010,Paris SG
+4,2011,Lyon
+4,2012,Nice
+4,2013,St. Etienne
+4,2014,Marseille
+4,2015,Nice
+4,2016,Lyon
+4,2017,Marseille
+4,2018,St. Etienne
+4,2019,Rennes
+4,2020,Lyon
+4,2021,Rennes
+4,2022,Rennes
+5,2002,Sochaux
+5,2003,Sochaux
+5,2004,Marseille
+5,2005,Marseille
+5,2006,Lens
+5,2007,St. Etienne
+5,2008,Lille
+5,2009,Montpellier
+5,2010,Sochaux
+5,2011,Bordeaux
+5,2012,St. Etienne
+5,2013,Lyon
+5,2014,St. Etienne
+5,2015,Lille
+5,2016,Marseille
+5,2017,Rennes
+5,2018,Marseille
+5,2019,Lille
+5,2020,Marseille
+5,2021,Nice
+5,2022,Lille
+6,2002,Auxerre
+6,2003,Nantes
+6,2004,St. Etienne
+6,2005,Auxerre
+6,2006,Bordeaux
+6,2007,Rennes
+6,2008,Paris SG
+6,2009,Bordeaux
+6,2010,Rennes
+6,2011,Rennes
+6,2012,Lille
+6,2013,Marseille
+6,2014,Bordeaux
+6,2015,St. Etienne
+6,2016,Bordeaux
+6,2017,Bordeaux
+6,2018,Montpellier
+6,2019,Monaco
+6,2020,Rennes
+6,2021,Strasbourg
+6,2022,Monaco
+7,2002,Guingamp
+7,2003,Marseille
+7,2004,Lens
+7,2005,Rennes
+7,2006,Sochaux
+7,2007,Lille
+7,2008,Rennes
+7,2009,Lorient
+7,2010,Bordeaux
+7,2011,St. Etienne
+7,2012,Bordeaux
+7,2013,Bordeaux
+7,2014,Montpellier
+7,2015,Caen
+7,2016,Nantes
+7,2017,St. Etienne
+7,2018,Nice
+7,2019,Lyon
+7,2020,Lens
+7,2021,Lens
+7,2022,Lyon
+8,2002,Lens
+8,2003,Lens
+8,2004,Auxerre
+8,2005,Nice
+8,2006,Auxerre
+8,2007,Nice
+8,2008,Auxerre
+8,2009,Monaco
+8,2010,Toulouse
+8,2011,Toulouse
+8,2012,Lorient
+8,2013,Lorient
+8,2014,Lille
+8,2015,Rennes
+8,2016,St. Etienne
+8,2017,Nice
+8,2018,Reims
+8,2019,Clermont
+8,2020,Montpellier
+8,2021,Lyon
+8,2022,Clermont
+9,2002,Nantes
+9,2003,Rennes
+9,2004,Paris SG
+9,2005,Paris SG
+9,2006,Monaco
+9,2007,Le Mans UC 72
+9,2008,Nice
+9,2009,Rennes
+9,2010,Auxerre
+9,2011,Gaillard
+9,2012,Montpellier
+9,2013,Toulouse
+9,2014,Rennes
+9,2015,Angers
+9,2016,Rennes
+9,2017,Nantes
+9,2018,Nimes
+9,2019,Nice
+9,2020,Nice
+9,2021,Nantes
+9,2022,Nice
+10,2002,Nice
+10,2003,Lille
+10,2004,Sochaux
+10,2005,Monaco
+10,2006,Lille
+10,2007,Lorient
+10,2008,Lorient
+10,2009,Valenciennes
+10,2010,St. Etienne
+10,2011,Marseille
+10,2012,Toulouse
+10,2013,SC Bastia
+10,2014,Guingamp
+10,2015,SC Bastia
+10,2016,Guingamp
+10,2017,Montpellier
+10,2018,Rennes
+10,2019,Lorient
+10,2020,Metz
+10,2021,Lille
+10,2022,Lorient
+11,2002,Paris SG
+11,2003,Nice
+11,2004,Strasbourg
+11,2005,Le Mans UC 72
+11,2006,St. Etienne
+11,2007,Caen
+11,2008,Monaco
+11,2009,Lens
+11,2010,Lorient
+11,2011,Nancy
+11,2012,Valenciennes
+11,2013,Reims
+11,2014,Nice
+11,2015,Bordeaux
+11,2016,Lille
+11,2017,Dijon
+11,2018,Strasbourg
+11,2019,Reims
+11,2020,St. Etienne
+11,2021,Brest
+11,2022,Reims
+12,2002,SC Bastia
+12,2003,Bordeaux
+12,2004,Nice
+12,2005,Nancy
+12,2006,Le Mans UC 72
+12,2007,Monaco
+12,2008,Valenciennes
+12,2009,Nancy
+12,2010,Valenciennes
+12,2011,Valenciennes
+12,2012,SC Bastia
+12,2013,Rennes
+12,2014,SC Bastia
+12,2015,Montpellier
+12,2016,Angers
+12,2017,Guingamp
+12,2018,Nantes
+12,2019,Montpellier
+12,2020,Bordeaux
+12,2021,Reims
+12,2022,Montpellier
+13,2002,Strasbourg
+13,2003,Strasbourg
+13,2004,Toulouse
+13,2005,St. Etienne
+13,2006,Nancy
+13,2007,Valenciennes
+13,2008,Grenoble
+13,2009,Paris SG
+13,2010,Nancy
+13,2011,Nice
+13,2012,Rennes
+13,2013,Nantes
+13,2014,Caen
+13,2015,Marseille
+13,2016,Toulouse
+13,2017,Amiens
+13,2018,Angers
+13,2019,Toulouse
+13,2020,Angers
+13,2021,Montpellier
+13,2022,Toulouse
+14,2002,Lille
+14,2003,Metz
+14,2004,Ajaccio
+14,2005,Nantes
+14,2006,Lorient
+14,2007,Sochaux
+14,2008,Sochaux
+14,2009,Toulouse
+14,2010,Montpellier
+14,2011,Sochaux
+14,2012,Reims
+14,2013,Gaillard
+14,2014,Nantes
+14,2015,Nantes
+14,2016,Metz
+14,2017,Angers
+14,2018,Bordeaux
+14,2019,Brest
+14,2020,Reims
+14,2021,Angers
+14,2022,Brest
+15,2002,Rennes
+15,2003,Ajaccio
+15,2004,Bordeaux
+15,2005,Sochaux
+15,2006,Paris SG
+15,2007,Auxerre
+15,2008,Nancy
+15,2009,Nice
+15,2010,Caen
+15,2011,Brest
+15,2012,Sochaux
+15,2013,Montpellier
+15,2014,Reims
+15,2015,Lorient
+15,2016,Montpellier
+15,2017,Strasbourg
+15,2018,Amiens
+15,2019,Strasbourg
+15,2020,Strasbourg
+15,2021,Troyes
+15,2022,Strasbourg
+16,2002,Montpellier
+16,2003,Toulouse
+16,2004,Metz
+16,2005,Toulouse
+16,2006,Nice
+16,2007,Paris SG
+16,2008,Le Mans UC 72
+16,2009,Sochaux
+16,2010,Brest
+16,2011,Ajaccio
+16,2012,Gaillard
+16,2013,Guingamp
+16,2014,Lorient
+16,2015,Guingamp
+16,2016,Dijon
+16,2017,Caen
+16,2018,Toulouse
+16,2019,Nantes
+16,2020,Lorient
+16,2021,Lorient
+16,2022,Nantes
+17,2002,Ajaccio
+17,2003,SC Bastia
+17,2004,Nantes
+17,2005,Troyes
+17,2006,Valenciennes
+17,2007,Toulouse
+17,2008,St. Etienne
+17,2009,St. Etienne
+17,2010,Nice
+17,2011,Lorient
+17,2012,Ajaccio
+17,2013,Nice
+17,2014,Toulouse
+17,2015,Toulouse
+17,2016,Caen
+17,2017,Lille
+17,2018,Monaco
+17,2019,Auxerre
+17,2020,Brest
+17,2021,Clermont
+17,2022,Auxerre
+18,2002,Le Havre
+18,2003,Guingamp
+18,2004,Caen
+18,2005,Ajaccio
+18,2006,Troyes
+18,2007,Lens
+18,2008,Caen
+18,2009,Le Mans UC 72
+18,2010,Monaco
+18,2011,Caen
+18,2012,Nancy
+18,2013,Sochaux
+18,2014,Gaillard
+18,2015,Reims
+18,2016,Lorient
+18,2017,Toulouse
+18,2018,Dijon
+18,2019,Ajaccio
+18,2020,Nantes
+18,2021,St. Etienne
+18,2022,Ajaccio
+19,2002,Sedan
+19,2003,Le Mans UC 72
+19,2004,SC Bastia
+19,2005,Strasbourg
+19,2006,Sedan
+19,2007,Strasbourg
+19,2008,Nantes
+19,2009,US Boulogne
+19,2010,Lens
+19,2011,Dijon
+19,2012,Troyes
+19,2013,Valenciennes
+19,2014,Metz
+19,2015,GFC Ajaccio
+19,2016,Nancy
+19,2017,Troyes
+19,2018,Caen
+19,2019,Troyes
+19,2020,Nimes
+19,2021,Metz
+19,2022,Troyes
+20,2002,Troyes
+20,2003,Montpellier
+20,2004,FC Istres
+20,2005,Metz
+20,2006,Nantes
+20,2007,Metz
+20,2008,Le Havre
+20,2009,Grenoble
+20,2010,Arles
+20,2011,Auxerre
+20,2012,Brest
+20,2013,Ajaccio
+20,2014,Lens
+20,2015,Troyes
+20,2016,SC Bastia
+20,2017,Metz
+20,2018,Guingamp
+20,2019,Angers
+20,2020,Dijon
+20,2021,Bordeaux
+20,2022,Angers
